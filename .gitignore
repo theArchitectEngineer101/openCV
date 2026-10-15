@@ -1,0 +1,17 @@
+# VS Code
+.vscode/
+
+# Python / Anaconda
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+
+# OpenCV Media Output
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.avi
